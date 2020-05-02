@@ -1,6 +1,6 @@
 # GIF_convolutions
 
-[GIF CONV2D](./GIFS/Input Shape : (3%2C 7%2C 7) - Output Shape : (2%2C 3%2C 3) - K : (3%2C 3) - P : (1%2C 1) - S : (2%2C 2) - D : (2%2C 2) - G : 1.gif)
+[GIF CONV2D](GIFS/Input Shape : (3%2C 7%2C 7) - Output Shape : (2%2C 3%2C 3) - K : (3%2C 3) - P : (1%2C 1) - S : (2%2C 2) - D : (2%2C 2) - G : 1.gif)
 
 ## Make your own gifs of Conv2d forward pass 
 
