@@ -1,5 +1,8 @@
 # GIF_convolutions
 
+Original publication :
+[Conv2d: Finally Understand What Happens in the Forward Pass](https://towardsdatascience.com/conv2d-to-finally-understand-what-happens-in-the-forward-pass-1bbaafb0b148)
+
 ![GIF CONV2D](GIFS/Input%20Shape%20:%20(3%2C%207%2C%207)%20-%20Output%20Shape%20:%20(2%2C%203%2C%203)%20-%20K%20:%20(3%2C%203)%20-%20P%20:%20(1%2C%201)%20-%20S%20:%20(2%2C%202)%20-%20D%20:%20(2%2C%202)%20-%20G%20:%201.gif)
 
 ## Make your own gifs of Conv2d forward pass 
